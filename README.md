@@ -1,3 +1,5 @@
 # SoftUni-Homework
-Repo made for exercises
-This will make conflict!
+This repo is for the homework from Software University. 
+Updating as we go.
+Conflict solved.
+
