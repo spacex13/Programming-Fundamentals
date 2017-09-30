@@ -1,6 +1,3 @@
 Content...
-<<<<<<< HEAD
 Changes from the main branch
-=======
 Changes made on the develop branch
->>>>>>> develop
