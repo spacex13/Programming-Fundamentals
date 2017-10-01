@@ -1,3 +1,6 @@
 Content...
 Changes from the main branch
 Changes made on the develop branch
+
+GitBash changes on secondBranch 
+GitBash changes on main 
