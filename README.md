@@ -1,3 +1,3 @@
-# Programmig Fundamentals
+# Programming Fundamentals
 Exercises and Labs
 
